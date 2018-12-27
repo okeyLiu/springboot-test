@@ -1,5 +1,8 @@
 package com.okliu.springboot.entity;
-
+/*
+ * 
+ * 这是一个好东西
+ */
 public class Greeting {
 
     private final long id;
