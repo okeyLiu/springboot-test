@@ -1,5 +1,5 @@
 package com.okliu.springboot.entity;
-
+//欢迎类
 public class Greeting {
 
     private final long id;
